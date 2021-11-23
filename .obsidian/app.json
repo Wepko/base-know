@@ -1,0 +1,20 @@
+{
+  "obsidianCss": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "base",
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "vimMode": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "files",
+  "foldIndent": false,
+  "showLineNumber": false
+}

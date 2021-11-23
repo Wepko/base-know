@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "5e7ac92469042db1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13f56c536b033fb",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a296dfdf554a5b7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3468a96b536136e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b737faf323fe4372",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "50aa26d51c1e9297",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e89968db88144abc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420
+  },
+  "right": {
+    "id": "4e6d8166510e106b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6863ff5509490edb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c195707afddef49d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08fd39849a2ecf3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "bc67cfb1d36f5519",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d13f56c536b033fb",
+  "lastOpenFiles": [
+    "daily/2021-11-23.md",
+    "themes/Тип данных/wiki.md",
+    "themes/Тип данных/tuples/wiki.md",
+    "themes/Тип данных/tuples/Кортежи (tuple) python 3.md",
+    "themes/Тип данных/tuples/Типы кортежей (справочник по C#).md",
+    "knows/Тема кортежи.md",
+    "themes/Тип данных/tuples/Кортежи в языках программирования. Часть 1.md",
+    "themes/Тип данных/tuples/Кортежи в языках программирования. Часть 2.md",
+    "themes/Тип данных/tuples/Первый взгляд на записи и кортежи в JavaScript.md",
+    "themes/Тип данных/tuples/Тип данных tuple, кортеж (DOCS Python3).md"
+  ]
+}
